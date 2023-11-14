@@ -1,5 +1,5 @@
 # Art-of-code
-![Screenshot 2023-11-14 133608](https://github.com/Tahjyy/Art-of-code/assets/150845824/b56887b1-847a-4a1e-9411-01373ad47b70
+![image](https://github.com/Tahjyy/Art-of-code/assets/150845824/f5239a4a-a30c-4c51-beff-2d086dc263c4)
 https://replit.com/@TahjMcDonald/ART-OF-CODE-PREOJECT#main.py
 
 
